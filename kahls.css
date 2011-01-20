@@ -1,0 +1,36 @@
+body {
+	color: #ffffff;
+	font-family: Helvetica Neue;
+	font-weight: bold;
+	background-color: #000000;
+	background-image: url('img/coffee-icon-transparent.png');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+a {
+	border: 0;
+}
+h1 {
+	text-align: center;
+	#color: #D00000;
+}
+h2 {
+	font-size: 1.2em;
+}
+ul {
+	padding: 0;
+}
+li {
+	list-style: none;
+	margin-bottom: .5em;
+}
+input.checkbox {
+	width: 2em;
+	height: 2em;
+}
+input.submit {
+	text-align: center;
+	size: 200%;
+}
+
